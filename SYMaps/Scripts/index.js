@@ -35,6 +35,8 @@ function SetControls(controls) {
                 //burda bir adet button objesi olusturmak gerekiyor.
                 SYButton(controlUI, control, null);
                 break;
+            case 'Checkbox':
+                SYCheckbox(controlUI, control, null);
             default:
 
         }

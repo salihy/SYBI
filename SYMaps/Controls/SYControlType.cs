@@ -7,6 +7,7 @@ namespace SYMaps.Controls
 {
     public enum SYControlType
     {
-        Button
+        Button,
+        Checkbox
     }
 }

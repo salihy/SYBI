@@ -162,6 +162,7 @@
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controls\ISYControl.cs" />
     <Compile Include="Controls\SYButton.cs" />
+    <Compile Include="Controls\SYCheckbox.cs" />
     <Compile Include="Controls\SYControlType.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
